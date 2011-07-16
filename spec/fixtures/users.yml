@@ -1,0 +1,10 @@
+admin:
+  id: 1
+  login_name: aaa
+  admin_flag: true
+
+normal:
+  id: 2
+  login_name: bbb
+  admin_flag: false
+

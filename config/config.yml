@@ -1,0 +1,23 @@
+# This file was auto-generated.  Feel free to customize it to your whim.
+
+production:
+    site_name: wake me
+    admin_email: admin@test.com
+    site_url: http://localhost:3000/
+    login_erase: @XXX.CO.JP
+    wol_port: 40000
+
+development:
+    site_name: wake me
+    admin_email: admin@test.com
+    site_url: http://localhost:3000/
+    login_erase: @XXX.CO.JP
+    wol_port: 40000
+
+test:
+    site_name: wake me
+    admin_email: admin@test.com
+    site_url: http://localhost:3000/
+    login_erase: @TEST
+    wol_port: 40000
+

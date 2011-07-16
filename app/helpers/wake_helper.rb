@@ -1,0 +1,2 @@
+module WakeHelper
+end

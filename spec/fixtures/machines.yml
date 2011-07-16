@@ -1,0 +1,8 @@
+m1:
+ id: 1
+ user_id: 1
+ name: test
+ ip: 192.168.1.1
+ mask: 255.255.255.0
+ bcast: 192.168.1.255
+ mac: AA:BB:CC:11:22:33

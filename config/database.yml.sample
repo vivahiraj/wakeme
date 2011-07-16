@@ -1,0 +1,24 @@
+development:
+  adapter: mysql
+  database: wakeme_dev
+  host: localhost
+  username: root
+  password: 
+  encoding: utf8
+
+test:
+  adapter: mysql
+  database: wakeme_test
+  host: localhost
+  username: root
+  password: 
+  encoding: utf8
+
+production:
+  adapter: mysql
+  database: wakeme
+  host: localhost
+  username: root
+  password: 
+  encoding: utf8
+
