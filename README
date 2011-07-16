@@ -1,3 +1,12 @@
-need ipaddress
+wakeme(ワケメ)はwebからWake On LANのマジックパケットを送るツールです。
+
+起動できるのは、wakemeが動作するwebサーバと同一セグメントのPCになります。
+
+ipaddressが必要になります。インストールを行ってください。
 gem install ipaddress
+
+利用にはWebサーバでBASIC認証などを行い環境変数にREMOTE_USERが設定される必要があります。
+REMOTE_USERで渡された値がusersテーブルに存在している場合に利用が可能です。
+
+Ruby1.8.7+Rails2.3.11で作成しています。
 
